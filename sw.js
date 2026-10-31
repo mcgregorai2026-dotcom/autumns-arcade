@@ -1,7 +1,7 @@
 // Autumn's Arcade service worker. The game page is NETWORK-FIRST (a new version shows on the next open when online;
 // the cached copy is used offline). Icons/manifest: cache-first, refreshed in the background. Old caches are removed on activate.
-const CACHE = 'autumns-arcade-79327c9c26';
-const BUILD = '8b42e23811';
+const CACHE = 'autumns-arcade-ecad7156f0';
+const BUILD = '802f0834d3';
 const PRECACHE = ["./","index.html","manifest.webmanifest","icons/apple-touch-icon.png","favicon.ico","icons/icon-192.png","icons/icon-32.png","icons/icon-512.png","icons/icon-maskable-192.png","icons/icon-maskable-512.png"];
 self.addEventListener('install', e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(PRECACHE.map(u => new Request(u, { cache: 'reload' })))).then(() => self.skipWaiting())); });
 // v10b: caches made by the OLD cache-first workers (v1 to v8). Pages they served have no update code, so after taking over we
