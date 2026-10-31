@@ -1,7 +1,7 @@
 {
   "name": "Autumn's Arcade",
   "short_name": "Autumn's Arcade",
-  "description": "Cozy puzzle games for Autumn: Bubble Pop, Water Sort, Arrow Escape, Leaf Drop, Pumpkin Parking, Yarn Untangle, Leaf Squad Run, Treat Swap, Acorn Blast, Harvest Trio, Pumpkin Merge, Lantern Links, Twisty Bolts, Pixel Patch, Word Wreath, Hexa Harvest, Cozy Jigsaw and Leaf Peeper. No ads, plays offline.",
+  "description": "Cozy puzzle games for Autumn: Bubble Pop, Water Sort, Arrow Escape, Leaf Drop, Pumpkin Parking, Yarn Untangle, Leaf Squad Run, Treat Swap, Acorn Blast, Harvest Trio, Pumpkin Merge, Lantern Links, Twisty Bolts, Pixel Patch, Word Wreath, Hexa Harvest, Cozy Jigsaw, Leaf Peeper and Memory Match. No ads, plays offline.",
   "id": "/autumns-arcade/",
   "start_url": "/autumns-arcade/index.html",
   "scope": "/autumns-arcade/",
@@ -51,7 +51,7 @@
       "sizes": "1080x2340",
       "type": "image/webp",
       "form_factor": "narrow",
-      "label": "Main Menu with 18 cozy games"
+      "label": "Main Menu with 19 cozy games"
     },
     {
       "src": "screenshots/2runner-1080x2340.webp",
@@ -72,7 +72,7 @@
       "sizes": "1920x1080",
       "type": "image/webp",
       "form_factor": "wide",
-      "label": "Autumn's Arcade: 18 cozy games, no ads, works offline"
+      "label": "Autumn's Arcade: 19 cozy games, no ads, works offline"
     }
   ]
 }

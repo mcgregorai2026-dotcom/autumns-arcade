@@ -13,7 +13,7 @@ All music files in this folder are loops cut from the original recordings, loudn
 - File: music/carefree.mp3 (loop of 5.364s–85.364s of the original, 80.0s)
 - Source: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037
 - License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
-- Used for: jigsaw, words, pix (calm puzzle)
+- Used for: jigsaw, words, pix, memory (calm puzzle)
 - Attribution: "Carefree" Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 4.0 License, http://creativecommons.org/licenses/by/4.0/
 
 ## Easy Lemon — Kevin MacLeod
