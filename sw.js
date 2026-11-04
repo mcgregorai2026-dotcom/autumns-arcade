@@ -1,7 +1,7 @@
 // Autumn's Arcade service worker. The game page is NETWORK-FIRST (a new version shows on the next open when online;
 // the cached copy is used offline). Icons/manifest: cache-first, refreshed in the background. Old caches are removed on activate.
-const CACHE = 'autumns-arcade-682a52840a';
-const BUILD = '789175bc3c';
+const CACHE = 'autumns-arcade-25daa953b3';
+const BUILD = '3e118e6285';
 const PRECACHE = ["./","index.html","manifest.webmanifest","icons/apple-touch-icon.png","favicon.ico","icons/icon-192.png","icons/icon-32.png","icons/icon-512.png","icons/icon-maskable-192.png","icons/icon-maskable-512.png"];
 // v15 music: own cache (kept across app updates; file names carry a content hash). The Main Menu loop is precached; the
 // other loops are cached the first time they play AND fetched quietly in the background after activation, so offline play has music.
